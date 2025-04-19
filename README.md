@@ -46,7 +46,7 @@ Hey there! I’m Vinu, a cybersecurity enthusiast with a strong foundation in bl
 
 ## 🧠 More Projects
 
-### 🏢 [Tata Group – TechCorp IAM Security Simulation (Forage)](https://www.theforage.com/)
+### 🏢 [Tata Group – Cybersecurity Simulation (Forage)](https://www.theforage.com/)
 - Completed a virtual job simulation as an **IAM Developer**
 - Conducted an **IAM Readiness Assessment** and documented risks in TechCorp's user lifecycle processes
 - Proposed an **IAM Solution Design** with secure onboarding/offboarding and access control mechanisms
