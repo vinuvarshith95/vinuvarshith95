@@ -60,10 +60,6 @@ Hey there! I’m Vinu, a cybersecurity enthusiast with a strong foundation in bl
 - Communicated technical risks and recommended actions to non-technical stakeholders
 - Learned to assess **risk levels**, **identify false positives**, and generate **actionable insights**
 
-### 📚 Library Management System (C++)
-- CLI-based system written in C++
-- Features: book inventory, search, issue/return, user roles
-
 
 ## 🧰 Skills & Tools
 
