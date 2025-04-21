@@ -31,9 +31,10 @@ Hey there! I’m Vinu, a cybersecurity enthusiast with a strong foundation in bl
 📘 [Read the full blog post](https://medium.com/@vinuvarshith95/building-my-first-home-lab-b51d83145691)
 
 ### 🛠️ SOC Automation Lab
-- Built a cloud-based SOC automation lab using **Wazuh**, **TheHive**, and **Shuffle** hosted on DigitalOcean.  
-- Set up log collection from a Windows 11 endpoint using **Sysmon**, automated alert triage with **Shuffle**, and managed incidents through **TheHive**.  
-- Simulated real-world attacks like **Mimikatz**, then created and tested **custom detection rules** in Wazuh to catch suspicious behavior.
+- Built a cloud-based SOC lab using **Wazuh**, **TheHive**, and **Shuffle** on DigitalOcean  
+- Configured log collection from a Windows 11 endpoint using **Sysmon**  
+- Automated alert triage with **Shuffle** and managed incidents via **TheHive**  
+- Simulated attacks like **Mimikatz** and created **custom detection rules** in Wazuh 
 
 📘 [Read the full write-up](https://medium.com/@vinuvarshith95/building-a-soc-automation-lab-phase-1-5f576b8b4497) | [Follow-up article](https://medium.com/@vinuvarshith95/building-a-soc-automation-lab-phase-2-7f3e46dc79f8)
 
