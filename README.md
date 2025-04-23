@@ -91,7 +91,6 @@ Hey there! I’m Vinu, a cybersecurity enthusiast with a strong foundation in bl
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn – Vinu Varshith](https://www.linkedin.com/in/vinuvarshithalagappan/)
-<!-- - 🧾 [Resume/CV](https://your-resume-link.com) -->
 - ✉️ vinuvarshith95@gmail.com
 
 
