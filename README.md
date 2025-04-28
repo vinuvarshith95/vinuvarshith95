@@ -25,7 +25,8 @@ Simulated attacks using fake keylogger and file modifier scripts to validate det
 A web-based application to generate strong passwords and test their strength based on NIST guidelines.
 Built with Python (Flask) and JavaScript, featuring a live strength bar and estimated crack time.
 Deployed publicly using Render with full HTTPS security.
-https://cyber-password-toolkit.onrender.com/
+
+<b>Live Site:</b> https://cyber-password-toolkit.onrender.com/
 
 ### SOC Automation Lab
 Deployed a cloud-based SOC lab on DigitalOcean using Wazuh, TheHive, and Shuffle.
