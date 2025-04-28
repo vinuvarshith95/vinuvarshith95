@@ -15,37 +15,37 @@ Hey there! I’m Vinu, a cybersecurity enthusiast with a strong foundation in bl
 - Python scripting for automation & data parsing
 
 
-
 ## 🔬 Projects in Cybersecurity
 
-### 🧪 Home SOC Lab – Splunk + Sysmon with Malware Simulation
-- Built a SOC lab using VirtualBox with **Kali Linux (attacker)** and **Windows 11 (victim)**
-- Installed **Sysmon** to collect Windows telemetry and forwarded logs to **Splunk**
-- Simulated realistic attacks:
-  - `nmap` port scanning
-  - Reverse shell malware with `msfvenom`
-  - Payload hosted using Python HTTP server
-- Captured and analyzed all events using Splunk queries  
-- Configured **internal network isolation** to safely execute and study malware behavior
+### Keylogger Detector
+Built a Python-based Keylogger Detector with real-time GUI monitoring, manual process termination, and email alerts via Mailtrap.
+Simulated attacks using fake keylogger and file modifier scripts to validate detection.
 
-📘 [Read the full blog post](https://medium.com/@vinuvarshith95/building-my-first-home-lab-b51d83145691)
+### Cyber Password Toolkit
+A web-based application to generate strong passwords and test their strength based on NIST guidelines.
+Built with Python (Flask) and JavaScript, featuring a live strength bar and estimated crack time.
+Deployed publicly using Render with full HTTPS security.
+https://cyber-password-toolkit.onrender.com/
 
-### 🛠️ SOC Automation Lab
-- Built a cloud-based SOC lab using **Wazuh**, **TheHive**, and **Shuffle** on DigitalOcean  
-- Configured log collection from a Windows 11 endpoint using **Sysmon**  
-- Automated alert triage with **Shuffle** and managed incidents via **TheHive**  
-- Simulated attacks like **Mimikatz** and created **custom detection rules** in Wazuh 
+### SOC Automation Lab
+Deployed a cloud-based SOC lab on DigitalOcean using Wazuh, TheHive, and Shuffle.
+Automated alert triage and incident management from Sysmon logs on Windows 11.
+Simulated Mimikatz attacks and wrote custom detection rules in Wazuh.
 
 📘 [Read the full write-up](https://medium.com/@vinuvarshith95/building-a-soc-automation-lab-phase-1-5f576b8b4497) | [Follow-up article](https://medium.com/@vinuvarshith95/building-a-soc-automation-lab-phase-2-7f3e46dc79f8)
 
+### Home SOC Lab – Splunk + Sysmon with Malware Simulation
+Built a SOC lab using VirtualBox with Kali Linux (attacker) and Windows 11 (victim).
+Installed Sysmon, forwarded logs to Splunk, and simulated attacks like Nmap scanning and reverse shells.
+Captured and analyzed events using Splunk queries with network isolation for safe malware execution.
 
-### 🔍 Static Malware Analysis – XMoon.exe
-- Performed **static analysis** on a Windows binary: `XMoon.exe`
-- Verified file type using hex headers and DOS signatures (`MZ`)
-- Extracted strings for IPs, C2 servers, APIs using:
-  - `strings`, `FLOSS`, `XorSearch`, `BinText`
-- Used **PEStudio** and **Exeinfo PE** to identify suspicious sections and packing indicators
-- Checked hash reputation using **VirusTotal**
+📘 [Read the full blog post](https://medium.com/@vinuvarshith95/building-my-first-home-lab-b51d83145691)
+
+
+### Static Malware Analysis – XMoon.exe
+Performed static analysis on a suspicious Windows binary (XMoon.exe).
+Extracted IOCs using strings, FLOSS, XorSearch, and analyzed PE structure with PEStudio.
+Checked reputation and signatures using VirusTotal and identified possible packing.
 
 📘[Read the full blog post](https://medium.com/@vinuvarshith95/understanding-malware-a-journey-into-static-analysis-51238a5eed16)
 
