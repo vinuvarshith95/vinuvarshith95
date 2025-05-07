@@ -27,6 +27,7 @@ Built with Python (Flask) and JavaScript, featuring a live strength bar and esti
 Deployed publicly using Render with full HTTPS security.
 
 <b>Live Site:</b> https://cyber-password-toolkit.onrender.com/
+(The application may take upto a minute to load)
 
 ### SOC Automation Lab
 Deployed a cloud-based SOC lab on DigitalOcean using Wazuh, TheHive, and Shuffle.
